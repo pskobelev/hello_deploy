@@ -1,5 +1,5 @@
 def hello():
-    return "Hello World!!!"
+    return "Hello World!!! Deploy to netlify"
 
 
 if __name__ == "__main__":
